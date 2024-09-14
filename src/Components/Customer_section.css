@@ -1,0 +1,121 @@
+.customer-section{
+    padding-bottom: 10vh;
+}
+
+.customer-heading{
+    font-family: Extatica;
+    font-size: 2rem;
+    text-align: center;
+    background: linear-gradient(90.16deg, #355DED, #6F33F0, #2D56EC,#2480EB, #1AACEA);
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    padding-top: 5vh;
+}
+
+.flex-box3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 85%;
+    margin: auto;
+}
+
+.flex-item3{
+    margin: 4vh 0vw;
+    text-align: left;
+    width: 23vw;
+}
+
+.flex-item3 p{
+    padding: 0vw 1vw;
+    color: var(--500, #64748B);
+    width: 20vw;
+}
+
+.customer-div{
+    display: flex;
+    gap: 1vw;
+    align-items: center;
+    padding-left: 1vw;
+}
+.customer-div img{
+    padding: 1.5vh 0.6vh 1.5vh 0.6vh;
+    gap: 10px;
+    border-radius: 2px;
+}
+
+.customer-div div h3{
+    margin: 0px;
+}
+
+.customer-item-1{
+    padding: 2vw 0px 2vw 1vw;
+    border-radius: 1.2vw;
+    background: #365EEE1A;
+    border: 1px solid #365EEE4D
+}
+
+.customer-item-2{
+    padding: 2vw 0px 2vw 1vw;
+    border-radius: 1.2vw;
+    background: #1AACEA1A;
+    border: 1px solid #1AACEA4D
+}
+.customer-item-3{
+    padding: 2vw 0px 2vw 1vw;
+    border-radius: 1.2vw;
+    background: #365EEE1A;
+    border: 1px solid #365EEE4D
+}
+
+
+
+.customer-info-div{
+    background: #E3F0F9;
+    padding: 2vh 0vh;
+}
+.user-div{
+    display: flex;
+    gap: 1vw;
+    justify-content: center;
+    padding-top: 3vh;
+}
+.box1{
+    width: 10vw;
+    border-radius: 4px;
+    text-align: left;
+    padding: 1vh 1vw;
+    background: var(--100, #F1F5F9);
+    border: 1px solid var(--300, #CBD5E1);
+}
+
+.box2{
+    width: 20vw;
+    border-radius: 4px;
+    text-align: left;
+    padding: 1vh 1vw;
+    background: var(--100, #F1F5F9);
+    border: 1px solid var(--300, #CBD5E1);
+}
+.button2{
+    height: 4vh;
+    padding: 1vh 2vw 1vh 2vw;
+    gap: 2vw;
+    color: white;
+    border-radius: 4px;
+    background: linear-gradient(93.69deg, #2D56EC -14.13%, #1AACEA 120.91%);
+}
+
+.free-trail{
+    display: flex;
+    gap: 12px;
+    padding: 4vh;
+    align-items: center;
+    justify-content: center;
+}
+.circle{
+    width: 6px;
+    height: 6px;
+    border-radius: 5px;
+    background: var(--400, #94A3B8);
+}

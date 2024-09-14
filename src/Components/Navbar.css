@@ -1,0 +1,28 @@
+.navbar{
+    display: flex;
+    padding: 2vh 8vw 1.5vh 8vw;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+    justify-content: space-between;
+}
+
+.navbar-content{
+    display: flex;
+}
+
+.items{
+    padding: 1.5vh 2vw 1.5vh 2vw;
+    gap: 2vw;
+}
+
+.img{
+    padding: 1.5vh 0px 0px 0px;
+}
+
+.button{
+    height: 4vh;
+    padding: 1.5vh 2vw 1.5vh 2vw;
+    gap: 2vw;
+    color: white;
+    border-radius: 4px;
+    background: linear-gradient(93.69deg, #2D56EC -14.13%, #1AACEA 120.91%);
+}
